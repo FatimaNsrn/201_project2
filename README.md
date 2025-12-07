@@ -18,14 +18,15 @@ The project is structured across multiple notebooks, generally requiring Python 
 
 <img width="822" height="166" alt="image" src="https://github.com/user-attachments/assets/c73e1608-cc2f-4389-a5bf-a2fa36c62734" />
 
-#### 🔬 Model Deep Dive
+### 🔬 Model Deep Dive
 
-1. Part-of-Speech (POS) Tagging
+#### 1. Part-of-Speech (POS) Tagging
+   
 The goal is to assign the correct grammatical tag (Noun, Verb, Adjective, etc.) to each word in the Farsi text.
 
 <img width="854" height="309" alt="image" src="https://github.com/user-attachments/assets/97e03329-4a5a-4467-8039-240a7a4a5b67" />
 
-### 2. Named Entity Recognition (NER)
+#### 2. Named Entity Recognition (NER)
 
 The goal is to locate and classify named entities (Person, Location, Organization, etc.) in the Farsi text.
 
